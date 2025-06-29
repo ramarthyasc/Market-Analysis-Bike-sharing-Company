@@ -1,4 +1,4 @@
 Open the html file for the full Code & Analysis. 
 
-
+Here is the Gif of the Analysis : [Click Here](https://medium.com/@amarthyasreechand/from-data-to-decisions-a-systematic-approach-using-a-case-study-on-cyclistic-dc0843393274)
 ![Gif for Cyclistic (4)](https://github.com/user-attachments/assets/b600e380-8e30-4174-8e20-ce2d155e695a)
