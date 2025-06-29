@@ -1,3 +1,5 @@
+Market analysis of a bike sharing company for the objective of converting Casual riders into more profitable Annual members.
+
 Open the html file for the full Code & Analysis. 
 
 Here is the Gif of the Analysis : [Click Here](https://medium.com/@amarthyasreechand/from-data-to-decisions-a-systematic-approach-using-a-case-study-on-cyclistic-dc0843393274)
